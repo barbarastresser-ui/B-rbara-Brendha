@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=BBH+Sans+Bogle&display=swap');
 body{
-    background-color: aqua;
+    background-color: rgb(238, 200, 240);
 margin: 0;
 color:black;
 }
 
 header{
-    background-color: rgb(126, 125, 122);
+    background-color: rgb(111, 0, 255);
 
 
  
@@ -23,4 +23,4 @@ header{
   font-weight: 400;
   font-style: normal;
   margin: 0;
-}
+    }
