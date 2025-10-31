@@ -16,8 +16,9 @@ header{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin: 0 auto;
-    header 3h{
+    margin: 0 auto;}
+
+    header h3{
         font-size: 30px;
     font-family: "BBH Sans Bogle", sans-serif;
   font-weight: 400;
